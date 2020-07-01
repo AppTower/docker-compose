@@ -10,7 +10,7 @@
 ### Install docker-compose as a container
 
 ```
-$ sudo curl -L --fail https://github.com/AppTower/docker-compose/releases/download/1.26.0/run.sh -o /usr/local/bin/docker-compose
+$ sudo curl -L --fail https://github.com/AppTower/docker-compose/releases/download/1.26.1/run.sh -o /usr/local/bin/docker-compose
 $ sudo chmod +x /usr/local/bin/docker-compose
 ```
 

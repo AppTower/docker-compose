@@ -15,7 +15,7 @@
 
 set -e
 
-VERSION="1.26.1"
+VERSION="1.26.2"
 IMAGE="apptower/docker-compose:$VERSION"
 
 
